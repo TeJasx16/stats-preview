@@ -1,3 +1,5 @@
+https://tejasx16.github.io/stats-preview.github.io/ live on
+
 # Frontend Mentor - Stats preview card component
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
